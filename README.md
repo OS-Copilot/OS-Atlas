@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[\[🏠Homepage\]](https://osatlas.github.io) [\[💻Code\]](https://github.com/OS-Copilot/OS-Atlas) [\[🚀Quick Start\]](#quick-start) [\[📝Paper\]](https://arxiv.org/abs/2410.23218) [\[🤗Models\]](https://huggingface.co/collections/OS-Copilot/os-atlas-67246e44003a1dfcc5d0d045)[\[🤗Data\]](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data) [\[🤗ScreenSpot-v2\]](https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2) 
+[\[🏠Homepage\]](https://osatlas.github.io) [\[💻Code\]](https://github.com/OS-Copilot/OS-Atlas) [\[🚀Quick Start\]](#quick-start) [\[📗Paper\]](https://arxiv.org/abs/2410.23218) [\[🤗Models\]](https://huggingface.co/collections/OS-Copilot/os-atlas-67246e44003a1dfcc5d0d045)[\[🤗Data\]](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data) [\[🤗ScreenSpot-v2\]](https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2) [📝Poster\]](https://github.com/OS-Copilot/OS-Atlas/assets/OS-Atlas-Poster.pdf)
 
 </div>
 
